@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Github Issues](https://github.com/SafaErden/Hotel-Project/issues)
+[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/SafaErden/Hotel-Project/issues)
 [![Made By](https://img.shields.io/badge/Made%20By-Safa%20Erden-brightgreen)](https://github.com/safaerden)
 
 </div>
